@@ -18,7 +18,7 @@ timestamp = datetime.datetime.now().strftime("%Y_%m_%d-%H_%M_%S")
 
 home = expanduser("~")
 # imagesDir = "Library/Mobile Documents/com~apple~CloudDocs/RoboFont/" # if you prefer iCloud
-imagesDir = "Dropbox/RoboFont" # if you prefer DropBox
+imagesDir = "Dropbox/-robofont-working_proofs" # if you prefer DropBox
 
 path = os.path.join(home, imagesDir)
 
